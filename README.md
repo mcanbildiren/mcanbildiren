@@ -3,7 +3,7 @@
 ## Electrical and Electronics Engineer
 🎓*Graduated from Istanbul Bahcesehir University in 2020.*
 
-## Full Stack Web Developer Trainee
+## Full Stack Web Programming Course
 *📚Wissen Akademie - Bahcesehir University*
 
 ## Skills 💻
