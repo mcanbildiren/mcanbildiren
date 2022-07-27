@@ -1,6 +1,6 @@
 # **Mustafa Can Bildiren**
 
-## Electrical and Electronics Engineer
+## Electrical and Electronics Engineering
 🎓*Graduated from Istanbul Bahcesehir University in 2020.*
 
 ## Full Stack Web Programming Course
@@ -20,6 +20,6 @@
 
 📧 E-mail:  <mcanbildiren@hotmail.com>
 
-🌐 Linkedin Profile:  https://www.linkedin.com/in/mcanbildiren/
+🌐 Linkedin :  https://www.linkedin.com/in/mcanbildiren/
 
 📍 Istanbul, Turkey
