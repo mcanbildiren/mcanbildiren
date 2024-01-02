@@ -1,5 +1,8 @@
 # **Mustafa Can Bildiren**
 
+## Computer Engineering Master's Degree
+🎓*Istanbul Bahcesehir University 2023-present*
+
 ## Electrical and Electronics Engineering
 🎓*Graduated from Istanbul Bahcesehir University in 2020.*
 
@@ -17,6 +20,7 @@
 - Arduino Programming
 
 ---
+🌐 Linkedin :  https://www.mustafacanbildiren.com
 
 📧 E-mail:  <mcanbildiren@hotmail.com>
 
