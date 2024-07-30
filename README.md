@@ -14,13 +14,11 @@
 - Web API Applications using ASP.Net Core
 - Object-Oriented Programming with C# Language
 - Database Management with Microsoft SQL Server, PostgreSQL
-- HTML, CSS
-- Arduino Programming
 
 ---
 🌐 Linkedin :  https://www.mustafacanbildiren.com
 
-📧 E-mail:  <mcanbildiren@hotmail.com>
+📧 E-mail:  <mcanbildiren@gmail.com>
 
 🌐 Linkedin :  https://www.linkedin.com/in/mcanbildiren/
 
