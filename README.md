@@ -23,18 +23,18 @@
 
 ## Skills 💻
 
-Programming Languages: C#, Python
-Backend Development: .NET, RESTful API Development
-Database Management: PostgreSQL, Elasticsearch, MongoDB
-Architecture & Design: Microservices, Domain-Driven Design (DDD), CQRS, SAGA Design Pattern
-Messaging & Queues: RabbitMQ, MassTransit
-Caching & Performance Optimization: Redis, Hangfire
-Logging & Monitoring: Serilog, ElasticSearch
-CI/CD & Version Control: GitLab, Bitbucket
-Security & Compliance: KYC (Know Your Customer), AML (Anti-Money Laundering), Secure Software Development
-Software Unit Testing
-Cloud & DevOps: Azure, Google
-Agile/Scrum Methodologies
-Problem-Solving
-Team Collaboration
-Technical Documentation
+- **Programming Languages**: C#, Python  
+- **Backend Development**: .NET, RESTful API Development  
+- **Database Management**: PostgreSQL, Elasticsearch, MongoDB  
+- **Architecture & Design**: Microservices, Domain-Driven Design (DDD), CQRS, SAGA Design Pattern  
+- **Messaging & Queues**: RabbitMQ, MassTransit  
+- **Caching & Performance Optimization**: Redis, Hangfire  
+- **Logging & Monitoring**: Serilog, ElasticSearch  
+- **CI/CD & Version Control**: GitLab, Bitbucket  
+- **Security & Compliance**: KYC (Know Your Customer), AML (Anti-Money Laundering), Secure Software Development  
+- **Software Unit Testing**  
+- **Cloud & DevOps**: Azure, Google  
+- **Agile/Scrum Methodologies**  
+- **Problem-Solving**  
+- **Team Collaboration**  
+- **Technical Documentation**  
