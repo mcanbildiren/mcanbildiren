@@ -2,8 +2,6 @@
 
 🌐 Website :  https://mustafacanbildiren.com
 
-🌐 Linkedin :  https://www.mustafacanbildiren.com
-
 📧 E-mail:  <mcanbildiren@gmail.com>
 
 🌐 Linkedin :  https://www.linkedin.com/in/mcanbildiren
