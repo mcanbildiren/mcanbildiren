@@ -1,7 +1,5 @@
 # **Mustafa Can Bildiren**
 
----
-
 🌐 Website :  https://mustafacanbildiren.com
 
 🌐 Linkedin :  https://www.mustafacanbildiren.com
